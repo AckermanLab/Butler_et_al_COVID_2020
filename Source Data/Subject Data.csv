@@ -1,0 +1,36 @@
+Lab number,Patient ID,Age,Sex,Covid status,Days since onset,Severity of disease
+2020 001-1,1,45,M,positive,37,moderate
+2020 002-1,2,62,M,positive,33,moderate
+2020 003-1,3,26,F,positive,19,mild
+2020 004-1,4,63,F,positive,29,severe (hospitalized)
+2020 005-1,5,59,M,positive,34,mild
+2020 006-1,6,52,M,positive,39,moderate
+2020 007-1,7,33,F,negative,N/A,N/A
+2020 008-1,8,60,F,negative,N/A,N/A
+2020 009-1,9,31,F,negative,N/A,N/A
+2020 010-1,10,28,F,negative,N/A,N/A
+2020 011-1,11,26,M,positive,42,mild
+2020 012-1,12,51,F,positive,31,moderate
+2020 013-1,13,61,F,positive,30,moderate
+2020 014-1,14,76,F,negative ,N/A,N/A
+2020 015-1,15,28,M,negative,N/A,N/A
+2020 016-1,16,20,M,positive,28,mild
+2020 017-1,17,45,F,positive,37,moderate
+2020 018-1,18,54,M,negative,N/A,N/A
+2020 019-1,19,18,F,positive,35,moderate
+2020 020-1,20,74,M,positive,67,moderate
+2020 021-1,21,49,M,positive,43,severe (hospitalized)
+2020 022-1,22,70,F,positive,56,severe (hospitalized)
+2020 023-1,23,65,F,positive,50,moderate
+2020 024-1,24,46,F,negative,N/A,N/A
+2020 025-1,25,23,M,negative,N/A,N/A
+2020 026-1,26,66,M,negative,N/A,N/A
+2020 027-1,27,50,M,negative,N/A,N/A
+2020 028-1,28,34,F,negative,N/A,N/A
+2020 029-1,29,60,F,positive,51,moderate
+2020 030-1,30,56,M,positive,53,moderate
+2020 031-1,31,77,M,positive,38,severe (hospitalized)
+2020 032-1,32,27,F,negative,N/A,N/A
+2020 033-1,33,34,M,negative,N/A,N/A
+2020 034-1,34,50,F,positive,43,moderate
+2020 035-1,35,22,M,negative,N/A,N/A
